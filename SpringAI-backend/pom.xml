@@ -11,7 +11,7 @@
 	<groupId>com.spring-ai.pocs</groupId>
 	<artifactId>SpringAI-Projects</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringAI-Projects</name>
+	<name>SpringAI-backend</name>
 	<description>Spring AI projects List</description>
 	<url/>
 	<licenses>
